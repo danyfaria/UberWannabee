@@ -1,0 +1,8 @@
+Versão 1.0
+
+Versão 1.2
+classe Empresa, método novoVeiculo()
+linha 51 - tirei o ponto de exclamação, a negação no if
+linha 56, 58, 59 - troquei o que estava no else com o que estava no if(flag==true)
+Se a comparaão retornar true, o veiculo já está registado, se retornar false cria novo veículo
+
